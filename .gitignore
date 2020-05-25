@@ -1,0 +1,5 @@
+.DS_Store
+account.json
+.terraform/
+*.tfstate*
+*.log
