@@ -3,3 +3,4 @@ account.json
 .terraform/
 *.tfstate*
 *.log
+*.tfvars
